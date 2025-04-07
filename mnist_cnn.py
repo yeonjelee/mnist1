@@ -5,6 +5,7 @@ Gets to 99.25% test accuracy after 12 epochs
 '''
 
 # modified by yeonjelee, 2025-04-07
+print('test')
 
 from __future__ import print_function
 import keras
